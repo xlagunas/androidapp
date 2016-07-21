@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="v0.1-beta"><source path="/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/exploded-aar/com.github.xlagunas/WebRTC/v0.1-beta/assets"/></dataSet><dataSet config="main"><source path="/Users/xlagunas/StudioProjects/androidapp/app/src/main/assets"/><source path="/Users/xlagunas/StudioProjects/androidapp/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/xlagunas/StudioProjects/androidapp/app/src/debug/assets"/></dataSet></merger>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="WebRTC-v0.1-beta">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.xlagunas/WebRTC/v0.1-beta/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.xlagunas/WebRTC/v0.1-beta/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.xlagunas/WebRTC/v0.1-beta/jars/libs/libjingle_peerconnection.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

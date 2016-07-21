@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="02d6b911f8f1a798f4c725a578cd24a63f94171c">
+        <dex dex="/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c9cc7f378c7aa7708e5647365d077af0e1bad514/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/exploded-aar/com.github.xlagunas/WebRTC/v0.1-beta/jars/libs/libjingle_peerconnection.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="016b1a3a3d77c276623fcfa3dc0d4be3cb4e1eb0">
+        <dex dex="/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/libjingle_peerconnection_f50d074821baca7df404d7d5d6c7454e52724499/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04d0bc0001010e492c3a70eefb6700400ba6df57">
+        <dex dex="/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c504662affc54e48af0651cc9214bcf401c27265/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/exploded-aar/com.github.xlagunas/WebRTC/v0.1-beta/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3b8f5256f3407be4facf5671616af74343b916cb">
+        <dex dex="/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.xlagunas-WebRTC-v0.1-beta_4e673fcbd0ad578caec5808c6e9e8b4311bfeb38/classes.dex" />
+    </item>
+
+</items>

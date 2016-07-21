@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="autobanh.autobanh">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/autobanh/autobanh.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

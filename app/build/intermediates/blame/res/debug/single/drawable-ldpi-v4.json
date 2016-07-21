@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/disconnect.png",
+        "source": "/Users/xlagunas/StudioProjects/androidapp/app/src/main/res/drawable-ldpi/disconnect.png"
+    },
+    {
+        "merged": "/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/xlagunas/StudioProjects/androidapp/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_full_screen.png",
+        "source": "/Users/xlagunas/StudioProjects/androidapp/app/src/main/res/drawable-ldpi/ic_action_full_screen.png"
+    },
+    {
+        "merged": "/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_loopback_call.png",
+        "source": "/Users/xlagunas/StudioProjects/androidapp/app/src/main/res/drawable-ldpi/ic_loopback_call.png"
+    },
+    {
+        "merged": "/Users/xlagunas/StudioProjects/androidapp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_return_from_full_screen.png",
+        "source": "/Users/xlagunas/StudioProjects/androidapp/app/src/main/res/drawable-ldpi/ic_action_return_from_full_screen.png"
+    }
+]
